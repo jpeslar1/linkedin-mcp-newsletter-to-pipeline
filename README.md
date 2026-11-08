@@ -1,5 +1,7 @@
 # linkedin-mcp-newsletter-to-pipeline
 
+> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the open-source AI SDR harness.** Install the kit to give your agent the whole outbound playbook (setup SOP and every LinkedIn and email sequence), then run this play on top of it.
+
 A Claude Code prompt that turns every newsletter subscriber into a triaged GTM signal. Beehiiv / Substack / Kit signup → live LinkedIn MCP resolution → ICP + behavioral score → SDR_QUEUE / WARM_NURTURE / CONTENT_NURTURE / DISQUALIFIED.
 
 Sharing it because newsletter signups are the highest-intent inbound signal most B2B operators have, and 99% of them waste it.
